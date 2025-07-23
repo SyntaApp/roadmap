@@ -27,7 +27,7 @@ Throughout developing Synta, we will be sharing frequent development updates in 
 - [ ] Launch Framer based landing page
   - Domain (getsynta.com)
   - Goal is to get viewers into the Discord
-> Outcome: Have a way people intrested can follow the project 
+> Outcome: Have a way people intrested can follow the project\
 > TBCB: 08/08 11:59PM
 
 
@@ -36,7 +36,7 @@ Throughout developing Synta, we will be sharing frequent development updates in 
 - [ ] Start advitising website on:
   - Reddit 
   - Discord
-> Allocate time every day to allocate Synta
+> Allocate time every day to allocate Synta\
 > TBCB: N/A
 
 ## Phase 3 — *Prototyping*
@@ -49,6 +49,7 @@ Throughout developing Synta, we will be sharing frequent development updates in 
 
 ## Phase 5 — *App Programming*
 - [ ] Program app with core implementation.
+> TBCB: 10/09 11:59PM
 
 ## Phase 6 — *Alpha (v0.1, invite-only)*
 - [ ] Ship something small, not perfect, but impactful. Functionally:
@@ -57,15 +58,18 @@ Throughout developing Synta, we will be sharing frequent development updates in 
   - [ ] Reflect changes back to code
 - [ ] Send early testers clear instructions, bugs go in Discord
 - [ ] Start showcasing what can be done with it
+> TBCB: N/A
 
 ## Phase 7 - *Funding*
 - [ ] Create a investor pitch
 - [ ] Send pitch to investors 
+> TBCB: unknown - todo
 
 ## Phase 8 — *Prepare For Beta*
 - [ ] Fix bugs and implement additional features
 - [ ] Create product hunt page for Synta
 - [ ] Create Synta installer (ships with setup)
+> TBCB: unknown - todo
 
 ## Phase 9 - *Public Beta Launch*
 - [ ] Update landing page with:
