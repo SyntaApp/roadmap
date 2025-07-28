@@ -24,7 +24,7 @@ Throughout developing Synta, we will be sharing frequent development updates in 
   - [x] create roadmap repo
   - [x] add Oji
   - [x] customize with branding 
-- [ ] Setup way to receive donations
+- [x] Setup way to receive donations
 - [ ] Launch Framer based landing page
   - Domain (getsynta.com)
   - Goal is to get viewers into the Discord
