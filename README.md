@@ -2,7 +2,8 @@
 This repository is designed to be an in-depth and up to date roadmap of Synta's development.
 
 **Synta** is a local-first visual editor for react components allowing developers and designers to create stunning websites without the need to rewrite them in code.
-![Synta Banner Here]()
+
+<img src="https://raw.githubusercontent.com/SyntaApp/.github/refs/heads/main/assets/banner-rounded.png" alt="Synta Banner" width="900">
 
 Throughout developing Synta, we will be sharing frequent development updates in our [Discord server]().
 
@@ -12,17 +13,17 @@ Throughout developing Synta, we will be sharing frequent development updates in 
 ## Phase 0 - *Foundation*
 - [x] Write product doc
 - [x] Create rough tech stack
-- [ ] Create branding:
+- [x] Create branding:
   - Logo (w varients)
   - Banner
 > TBCB: 25/07 11:59PM 
 
 ## Phase 1 - *Community Preperation*
 - [x] Create Discord server
-- [ ] Setup Github org
+- [x] Setup Github org
   - [x] create roadmap repo
-  - [ ] add Oji
-  - [ ] customize with branding 
+  - [x] add Oji
+  - [x] customize with branding 
 - [ ] Setup way to receive donations
 - [ ] Launch Framer based landing page
   - Domain (getsynta.com)
