@@ -37,7 +37,7 @@ Throughout developing Synta, we will be sharing frequent development updates in 
 - [x] Start advitising website on:
   - Reddit 
   - Discord
-> Allocate time every day to allocate Synta\
+> Allocate time every day to advertise Synta\
 > TBCB: N/A
 
 ## Phase 3 — *Prototyping*
