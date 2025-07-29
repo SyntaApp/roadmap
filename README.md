@@ -34,7 +34,7 @@ Throughout developing Synta, we will be sharing frequent development updates in 
 
 ## Phase 2 - *Grow Community*
 - [ ] Start creation of Synta UI
-- [ ] Start advitising website on:
+- [x] Start advitising website on:
   - Reddit 
   - Discord
 > Allocate time every day to allocate Synta\
