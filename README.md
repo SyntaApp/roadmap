@@ -46,7 +46,7 @@ Throughout developing Synta, we will be sharing frequent development updates in 
 
 ## Phase 4 — *Core Programming*
 - [ ] Program core functionality (parsing & rendering) & ensure it works
-> TBCB: 27/07 11:59PM
+> TBCB: 27/08 11:59PM
 
 ## Phase 5 — *App Programming*
 - [ ] Program app with core implementation.
